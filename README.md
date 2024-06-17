@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mikhail Lukashov
 - 👀 I’m interested in studying computer science and improving my knowledge of proggraming
-- 🌱 I’m currently learning Python 3
+- 🌱 I’m currently learning Python, SQL, C#
 - 📫 How to reach me: mikhail-lukashov@mail.ru
 
 <!---
